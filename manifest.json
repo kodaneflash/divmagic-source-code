@@ -2,9 +2,9 @@
    "action": {
       "default_icon": "icon-48.png",
       "default_popup": "popup.html",
-      "default_title": "DivMagic"
+      "default_title": "DivMagic source"
    },
-   "author": "DivMagic",
+   "author": "DivMagic sourc",
    "background": {
       "service_worker": "background.bundle.js"
    },
@@ -27,7 +27,7 @@
       "48": "icon-48.png"
    },
    "incognito": "split",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmV7sY8m+9lrP/2S9WETNHDVA14ZX2ZGWbsaHyxYJstQ+5yNbGY9SlxvbrAMlG6+7PdIud0NB8kTS//p3r/dXx6r7uArQFhf6GXYo0mLCOzzHECMQlTzBT3t0hnPOQdZ+d8oDs4UFB+XBZFzzWUKrYH1CFUpSorBoTO727Alo6sHGn4zgwFjRWb3+hHrXhJgSHY+nq9IxVbD/EioElc+QovzEtKApGeKx7aNeaggx/+6zmS2hI6vp/vGIc+9tn1Tbu1TO3aW0wqA1h5pWBAHNgU0ZHv0W++zWE8tTbieKk+nt50wYdcP/hnF+CZul9lpXL96APLaxwEl2zBATJP9pfwIDAQAB",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsxo4k6h7KDewCfqV1vV1bL6AcbZ+FxHhCHtk+HtUg23/HqW+i0O5rFQLeLqn4GENweckmNdsDuibEvKazLnPAOPe5bbibwsHDw4lqeGrwobmiK6nHMEHVzE+sJXqUN1CmGL0fZ9IreGS68Xcr3LGY8vXoGK7UQSjIywQrbEAlfJE/mmQX2aqwX4T/wfyLOxIImCmgfGPu/k46JNCUEGVvgcoFqYRUFLf0Qs8awzBh+7VYdt8WY/nfI+30ZYcYUd8oP9HnFzLUq77BynxY0Ro9WpiYFWCc4mCGm+bd2t2u3zqXiFfHx4/enYik8fD6SZL6jy32urSVrq2YDX7ffqB3wIDAQAB",
    "manifest_version": 3,
    "name": "__MSG_extName__",
    "optional_host_permissions": [ "https://*/*", "http://*/*" ],
